@@ -3,6 +3,7 @@ This is Version 0.15 (beta)
 _____________________________________
 ## How to install npDuo?
 1. Install
+
 With Firefox - Greasemonkey ( https://addons.mozilla.org/ru/firefox/addon/greasemonkey/ )
 
 With Google Chrome - Tampermonkey ( https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo )
