@@ -1,5 +1,6 @@
 # npDuo
-This is Version 0.15 (beta)
+This is new version (Update: 31/12)
+Version 0.16 (beta)
 _____________________________________
 ## How to install npDuo?
 1. Install
