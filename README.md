@@ -1,5 +1,7 @@
 # English Version
 
+______________________
+
 ## What is npDuo?
 npDuo (DuoTweakVN) is a useful userscript for Duolingo. The newest version is 0.15.1!
 _____________________________________
