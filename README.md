@@ -1,7 +1,7 @@
 # English Version
 
 ## What is npDuo?
-npDuo (DuoTweakVN) is a useful userscript for Duolingo. The newest version is 0.15. 
+npDuo (DuoTweakVN) is a useful userscript for Duolingo. The newest version is 0.15.1!
 _____________________________________
 ## How to install npDuo?
 + First, install this add-on:
@@ -16,4 +16,15 @@ With Opera - [Tampermonkey](https://addons.opera.com/ru/extensions/details/tampe
 
 + Choose Dashboard.
 
-+ Add this source: https://raw.githubusercontent.com/nguoilapro/npDuo/master/npDuo%200.15.1
++ Add this source: https://github.com/nguoilapro/npDuo/blob/master/npDuo%200.15.1%20(DuoTweakVN%200.15.1)
+
+____________________________
+
+## What's new?
+
+> 0.15
+>> Welcome to npDuo (DuoTweakVN). I'm a useful userscript for Duolingo.
+
+> 0.15.1
+>> I'm the newest version! 
+>> In this version, I delete the text "Đang cập nhật..." in the settings. This is a mini-update!
