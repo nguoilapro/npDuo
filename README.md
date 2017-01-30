@@ -27,4 +27,7 @@ ____________________________
 
 > 0.15.1
 >> I'm the newest version! 
->> In this version, I delete the text "Đang cập nhật..." in the settings. This is a mini-update!
+>>> In this version, I delete the text "Đang cập nhật..." in the settings. This is a mini-update!
+
+> 0.16 (Mix)
+>> My name is npDuo Mix (DuoTweakVN Mix). Coming soon! 
