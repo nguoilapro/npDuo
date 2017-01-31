@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name			npDuo
 // @namespace		duolingo
-// @description		Một userscript hữu ích cho Duolingo | Dựa trên mã nguồn của DuoTweak | Phiên bản Beta
+// @description		Một userscript hữu ích cho Duolingo dựa trên mã nguồn của DuoTweak | Phiên bản Mix (0.16) | Unoffical
 // @version			Mix (0.16)
 // @author			nguoilapro | nguoilapro@gmail.com
 // @include			https://www.duolingo.com/*
