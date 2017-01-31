@@ -32,4 +32,8 @@ ____________________________
 >>> In this version, I delete the text "Đang cập nhật..." in the settings. This is a mini-update!
 
 > 0.16 (Mix)
->> My name is npDuo Mix (DuoTweakVN Mix). Coming soon! 
+>> My name is npDuo Mix (DuoTweakVN Mix). Now, I'm unoffical. But You can be a tester!
+>>> New:
+>>> + Delete everything about Immersion!
+>>> + Add "Give Lingot Fast".
+>>> + Fix something...
