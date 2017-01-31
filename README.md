@@ -28,13 +28,18 @@ ____________________________
 >> Welcome to npDuo (DuoTweakVN). I'm a useful userscript for Duolingo.
 
 > 0.15.1
->> I'm the newest version! 
+>> I'm new! 
 >>> In this version, I removed the text "Đang cập nhật..." in the settings. This is a mini-update!
 
 > 0.16 (Mix)
 >> My name is npDuo Mix (DuoTweakVN Mix). I'm available now!
 >>> New:
->>> + Remove our logo.
 >>> + Remove everything about Immersion!
 >>> + Add "Give Lingot Fast".
+>>> + Fix something...
+
+> 0.16.1 (Mix)
+>> I'm the newest version. Update or install now!
+>>> New:
+>>> + Remove our logo.
 >>> + Fix something...
