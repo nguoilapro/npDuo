@@ -1,7 +1,7 @@
 // ==UserScript== 
 // @name			npDuo
 // @namespace		duolingo
-// @description		Một userscript hữu ích cho Duolingo dựa trên mã nguồn của DuoTweak | Phiên bản 0.15.1: Xóa dòng chữ "Đang cập nhật..." trong cài đặt.
+// @description		Một userscript hữu ích cho Duolingo dựa trên mã nguồn của DuoTweak | Phiên bản 0.15.1
 // @version			0.15.1
 // @author			nguoilapro | nguoilapro@gmail.com
 // @include			https://www.duolingo.com/*
