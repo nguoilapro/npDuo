@@ -24,12 +24,12 @@ ____________________________
 
 ## What's new?
 
-> 0.15
+> 0.15 | Don't support anymore! Please update npDuo!
 >> Let's say hello with npDuo. I'm a useful userscript for Duolingo!
 
-> 0.15.1
+> 0.15.1 | Don't support anymore! Please update npDuo!
 >> I'm new! 
->>> In this version, I removed the text "Đang cập nhật..." in the settings. This is a mini-update!
+>>> Fix something... This is a mini-update!
 
 > 0.16 (Mix)
 >> My name is npDuo Mix. I'm available now!
@@ -42,4 +42,10 @@ ____________________________
 >> I'm the newest version. Update or install now!
 >>> New:
 >>> + Remove our logo.
+>>> + Fix something...
+
+> 0.17 (Note)
+>> COMING SOON - 2/2017
+>>> New:
+>>> + You can write on your wall!
 >>> + Fix something...
